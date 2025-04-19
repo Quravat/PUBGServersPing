@@ -1,6 +1,13 @@
 {
   "locale-name": "Français",
-  "locale-author": "Cethiel",
-  "clear-button": "Remettre a Zero",
-  "close-button": "Fermer"
+  "locale-author": "Quravat",
+  "header-title": "PING DES SERVEURS PUBG",
+  "public-message": "Bienvenue ! Nous avons remanié ce site web. Si une fonctionnalité vous manque, merci de nous le faire savoir dans la section <a href='http://github.com/disquse/pubgserversping'>Issues</a> sur GitHub !",
+  "ping-button": "Tester le ping",
+  "about-button": "À propos",
+  "clear-button": "Tout effacer",
+  "locale-button": "Langue",
+  "close-button": "Fermer",
+  "no-selected-servers": "Vous devez sélectionner au moins 1 serveur !",
+  "something-is-broken": "Oups, on dirait que quelque chose a été cassé :( Réessayez plus tard !"
 }
